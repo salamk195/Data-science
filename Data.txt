@@ -1,0 +1,13 @@
+My introduction to data science course has been a transformative experience. I began by learning how to collect and process data from various sources, ensuring its quality through cleaning and preprocessing.
+
+Next, I explored data visualization, using tools like Matplotlib and Seaborn to create compelling visuals that highlight patterns and trends.
+
+Understanding data storage was crucial, as I delved into both SQL and NoSQL databases for efficient data management.
+
+Machine learning was a highlight, where I studied algorithms like linear regression and neural networks, applying them to real-world problems.
+
+Throughout, I gained insights into different data types and their unique challenges.
+
+This journey has equipped me with the skills to turn raw data into valuable insights, fueling my passion for data science.
+
+I also created an article on the completion of this course, this is the link to read my article: https://medium.com/@abdulsalamawosanya5/from-raw-data-to-real-insights-my-data-science-journey-455ceda10ead
